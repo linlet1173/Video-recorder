@@ -31,14 +31,13 @@ This is a simple **Video Recorder** application built using **OpenCV** in Python
 * Run the script 
 
 ## Use the following controls:
-Spacebar: Start/stop recording.
-ESC: Exit the program.
-The video will be saved in the same directory as recorded_video.avi.
+* Spacebar: Start/stop recording.
+* ESC: Exit the program.
+* The video will be saved in the same directory as recorded_video.avi.
 
 ## Screenshots
 
-<img width="1440" alt="cv video-recorder" src="https://github.com/user-attachments/assets/5c542409-ab45-46db-a66e-b3a38d85a5e9" />
-
+<img width="1278" alt="cv video-recorder" src="https://github.com/user-attachments/assets/22a463d6-db72-4058-917f-196f6419f076" />
 
 ## License
 
