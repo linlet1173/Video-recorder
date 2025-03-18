@@ -35,7 +35,7 @@ This is a simple **Video Recorder** application built using **OpenCV** in Python
 * ESC: Exit the program.
 * The video will be saved in the same directory as recorded_video.avi.
 
-## Screenshots
+## Screenshot
 
 <img width="1278" alt="cv video-recorder" src="https://github.com/user-attachments/assets/22a463d6-db72-4058-917f-196f6419f076" />
 
