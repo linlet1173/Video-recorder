@@ -4,12 +4,12 @@
 This is a simple **Video Recorder** application built using **OpenCV** in Python. The application allows to record videos from the webcam, toggle recording with the **Spacebar**, and save the recorded video to a file. The application also shows a red circle on the screen as a recording indicator and displays the elapsed time of the recording.
 
 ## Features
-*Preview Camera Feed : Displays the live feed from the webcam.
-Recording Toggle* : Press **Spacebar** to start and stop recording.
-*Recording Indicator : A red circle appears when recording is active.
-Elapsed Time* : Displays the time in seconds that the recording has been ongoing.
-*Save Video* : The recorded video is saved in **.avi** format.
-*Exit*: Press **ESC** to exit the program.
+- Preview Camera Feed: Displays the live feed from the webcam.
+- Recording Toggle: Press **Spacebar** to start and stop recording.
+- Recording Indicator: A red circle appears when recording is active.
+- Elapsed Time: Displays the time in seconds that the recording has been ongoing.
+- Save Video: The recorded video is saved in **.avi** format.
+- Exit: Press **ESC** to exit the program.
 
 ## Requirements
 - Python 3.x
